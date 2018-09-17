@@ -1,0 +1,30 @@
+_repo: A-Thrilling-Narrative-of-the-Minnesota-Massacre-and-the-Sioux-War-of-1862-63-Graphic-Accounts__51990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connolly, A. P. (Alonzo P.)
+    aliases:
+    - Connolly, Alonzo P.
+    - Connolly, Alonzo Putnam
+    birthdate: 1836
+    deathdate: 1915
+    gutenberg_agent_id: '46621'
+    url: http://www.gutenberg.org/2009/agents/46621
+description: ''
+gutenberg_issued: '2016-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51990'
+  lccn: 02016596
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Dakota Indians -- Wars -- 1862-1865'
+- GITenberg
+title: "A Thrilling Narrative of the Minnesota Massacre and the Sioux War of 1862-63\r\
+  \nGraphic Accounts of the Siege of Fort Ridgely, Battles of Birch Coolie, Wood Lake,\
+  \ Big Mound, Stony Lake, Dead Buffalo Lake and Missouri River"
+url: http://www.gutenberg.org/ebooks/51990
